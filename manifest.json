@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Clock by Khant",
+  "version": "1.0.0",
+  "description": "For My Personal Use Pretty Clock",
+  "icons": {
+    "16": "favicon-16x16.png",
+    "32": "favicon-32x32.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "favicon-16x16.png",
+      "32": "favicon-32x32.png"
+    }
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
